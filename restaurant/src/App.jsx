@@ -1,8 +1,5 @@
-import img1 from "../public/curry.jpg"
-import img2 from "../public/noodles.jpg"
-import img3 from "../public/stew.jpg"
 import Navbar from "./Navbar"
-import Main from "./main"
+import Main from "./Page"
 
 const App = ()=>{
     return (
