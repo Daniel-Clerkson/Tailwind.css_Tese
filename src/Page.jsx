@@ -6,7 +6,7 @@ const Main = ()=>{
     return (
         <main className="px-16 py-6 bg-gray-100 col-span-2">
             <div className="flex justify-center lg:justify-end">
-                <a href="#" className="primary btn bp hover:bg-red-400 hover:text-white">Log in</a>
+                <a href="#" className="primary btn bp hover:bg-red-400 hover:text-white transition-all ease-linear duration-500">Log in</a>
                 <a href="#" className="primary ml-2 btn bp hover:bg-red-400 hover:text-white">Sign up</a>
             </div>
 
